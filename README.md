@@ -19,10 +19,10 @@ To save the result in a file add " > file.html" to the end of command. The follo
 java Cleaner file_absolute_path > outputfile.html
 
 2) Do one Plus ignore a certain url
-java Cleaner /media/c/projects/sanabe/affiliate/Svala/svala.csv https://svala.co/collections/vegan-handbags
+java Cleaner /media/c/projects/sanabe/affiliate/Svala/svala.csv https://www
 
 
 
 Useful commands:
-java Cleaner /media/c/projects/sanabe/affiliate/Svala/svala.csv > m.html https://svala.co/collections/vegan-handbags
+java Cleaner /media/c/projects/sanabe/affiliate/Svala/svala.csv https://www > out.html
 
